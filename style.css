@@ -135,7 +135,7 @@ nav.scrolled {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-image: url('https://williamfairlaw.com/wp-content/uploads/2019/11/iStock-9245202321.jpg');
+  background-image: url('https://williamfairlaw.com/images/iStock-9245202321.jpg');
   background-size: cover;
   background-position: center 30%;
   filter: brightness(0.45);
@@ -426,7 +426,7 @@ section { padding: 7rem 2rem; }
 
 /* ─── CONTACT CTA BAND ─── */
 .cta-band {
-  background-image: url('https://williamfairlaw.com/wp-content/uploads/2019/11/iStock-629098988.jpg');
+  background-image: url('https://williamfairlaw.com/images/iStock-629098988.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
